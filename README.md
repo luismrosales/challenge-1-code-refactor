@@ -17,7 +17,7 @@ THEN I find a concise, descriptive title
 ## code refactor to acceptance criteria
 ### index.html
 * the title was changed.
-* added an <a> attribute to the <h1> in the header, this allows you tp go back to the main page when clicked.
+* added an "a" attribute to the "h1" in the header, this allows you tp go back to the main page when clicked.
 * an "id" attribute was added to the div so when the link is clicked, it takes us to the desired section.
 * an "alt" was added to the image, so it fits the acceptance criteria.
 * a footer tag was added to the bottom to identify where the footer is.
