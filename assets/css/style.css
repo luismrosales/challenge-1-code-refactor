@@ -21,8 +21,9 @@ body {
 }
 /* contrasrt color uesed to be grey */
 .header h1 .seo {
-    color: darksalmon
+    color: darksalmon;
 }
+
 
 .header div {
     padding-top: 15px;
