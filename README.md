@@ -26,7 +26,7 @@ THEN I find a concise, descriptive title
 * styled the footer to look similar to the header
 
 ## website
-*  https://luismrosales.github.io/challenge-1-code-refactor/
+ https://luismrosales.github.io/challenge-1-code-refactor/
 
 ## built with
 * HTML
